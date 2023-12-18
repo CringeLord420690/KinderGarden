@@ -3,3 +3,5 @@
 Kezdő lap - index.html
 csoportok - team.html
 menza - menza.html
+<br>
+PÉLDA OVODÁRA: https://www.ovoda-nyul.hu/
